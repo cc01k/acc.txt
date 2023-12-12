@@ -7,6 +7,7 @@ NAME – Hc enzo oppo
 
 NAME – Mr-exampel
  KEY – 1᯾0᯾2᯾0᯾1᯾u᯾0᯾_᯾a᯾2᯾0᯾1
+     - 1⨳0⨳2⨳0⨳1⨳u⨳0⨳_⨳a⨳2⨳0⨳1
 
 NAME – mr-example
  KEY – 1᯾0᯾2᯾9᯾8᯾u᯾0᯾_᯾a᯾2᯾9᯾8   
