@@ -11,11 +11,11 @@ NAME – Mr-exampel
 NAME – mr-example
  KEY – 1᯾0᯾2᯾9᯾8᯾u᯾0᯾_᯾a᯾2᯾9᯾8   
 
-NAME – N7
+NAME – HC-N7
  KEY – 1᯾0᯾6᯾0᯾2᯾u᯾0᯾_᯾a᯾6᯾0᯾2
 
-NAME – 
- KEY – 
+NAME – Ez N7
+ KEY – 1⨳0⨳6⨳0⨳2⨳u⨳0⨳_⨳a⨳6⨳0⨳2
 
 NAME – 
  KEY – 
