@@ -28,9 +28,6 @@ NAME – Nubi
 NAME – Zodix
  KEY – 1᯾2᯾1᯾7᯾5᯾u᯾0᯾_᯾a᯾2᯾1᯾7᯾5
 
-NAME – done
- KEY – 1᯾0᯾2᯾3᯾3᯾u᯾0᯾_᯾a᯾2᯾3᯾3
-
 NAME – hhhh
  KEY – 1᯾0᯾2᯾8᯾2᯾u᯾0᯾_᯾a᯾2᯾8᯾2
 
@@ -42,3 +39,18 @@ Name - zt02
 
 Name - pamanhk
  KEY - 1᯾0᯾1᯾6᯾2᯾u᯾0᯾_᯾a᯾1᯾6᯾2
+
+NAME – 
+ KEY – 
+
+NAME – 
+ KEY – 
+
+NAME – 
+ KEY – 
+
+NAME – 
+ KEY – 
+
+NAME – 
+ KEY – 
