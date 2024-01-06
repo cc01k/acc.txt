@@ -10,11 +10,11 @@ NAME  -  HMID USER VIP
 NAME – Hc enzo oppo
  KEY – 1᯾0᯾8᯾3᯾4᯾u᯾0᯾_᯾a᯾8᯾3᯾4
 
-NAME – Mr-exampel
+NAME – Mr-king
  KEY – 1᯾0᯾2᯾0᯾1᯾u᯾0᯾_᯾a᯾2᯾0᯾1
      - 1⨳0⨳2⨳0⨳1⨳u⨳0⨳_⨳a⨳2⨳0⨳1
 
-NAME – mr-example
+NAME – mr-root
  KEY – 1᯾0᯾2᯾9᯾8᯾u᯾0᯾_᯾a᯾2᯾9᯾8   
 
 NAME – HC-N7
