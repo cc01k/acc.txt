@@ -26,10 +26,10 @@ NAME – Ez N7
 NAME – Nubi
  KEY – 1᯾0᯾1᯾2᯾5᯾u᯾0᯾_᯾a᯾1᯾2᯾5
 
-NAME – Zodix
+NAME – Zodix qq
  KEY – 1᯾2᯾1᯾7᯾5᯾u᯾0᯾_᯾a᯾2᯾1᯾7᯾5
 
-NAME – hhhh
+NAME – lord
  KEY – 1᯾0᯾2᯾8᯾2᯾u᯾0᯾_᯾a᯾2᯾8᯾2
 
 NAME – mahmod
@@ -41,7 +41,7 @@ Name - zt02
 Name - pamanhk
  KEY - 1᯾0᯾1᯾6᯾2᯾u᯾0᯾_᯾a᯾1᯾6᯾2
 
-NAME – 
+NAME – jose cardova
  KEY – 1᯾0᯾5᯾9᯾3᯾u᯾0᯾_᯾a᯾5᯾9᯾3
 
 NAME – ali
